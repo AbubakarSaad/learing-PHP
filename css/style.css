@@ -1,0 +1,20 @@
+body{
+	background-image: url(../img/simple-black.jpg);
+}
+
+.container {
+	background-color: #f4f4f4;
+	border-radius: 5px;
+
+}
+
+.row{
+	padding: 13px;
+}
+
+#Phe {
+	 margin-left: 750px;
+}
+
+
+/*1234, 6214*/
